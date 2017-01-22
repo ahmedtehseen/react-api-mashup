@@ -1,0 +1,12 @@
+*make sure you've installed node in your computer.
+*to check, just type "node -v" in your command-line/terminal/command-prompt if it is there then it will show somthing like {v6.3.0}.
+*if it shows nothing than go to "nodejs.org" and download the recommended version of node. 
+*once its installed please make sure if it is installed correctly by running these two commands seperately in your computer's command-line/terminal/command-prompt "node -v" & "npm -v".
+*both commands have to show some version like {v6.3.0} {v0.4.1}
+*once you're done with node and npm, you can now go to the project folder and type these two commands seperately.
+1. npm install (it will install all the dependencies in a folder named "node-modules")
+2. npm start (once this command completes its build process then your project will serve you on localhost:8080)
+
+*open your web browser type in address bar "localhost:8080".
+
+Now you're ready to use your App have fun...!
